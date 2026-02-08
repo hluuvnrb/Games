@@ -37,6 +37,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/hluuvnrb/Games/refs/
      local Tab5 = MakeTab({Name = "King Legacy"})
      local Tab6 = MakeTab({Name = "Dead Rails"})
      local Tab7 = MakeTab({Name = "Hunty Zombie"})
+     local Tab8 = MakeTab({Name = "Banana Hub Premium"})
      
 
     AddButton(Tab0, {
@@ -332,5 +333,41 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main
      Name = "Taro (No key)",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/HuntyZombie"))()
+  end
+  })
+    AddButton(Tab8, {
+     Name = "Banana #qv0qhsf5mzgelawfikox3w5b",
+    Callback = function()
+	  
+  end
+  })
+   AddButton(Tab8, {
+     Name = "Banana #pn83a4bnbr43k9j45humcxaa",
+    Callback = function()
+	  
+  end
+  })
+   AddButton(Tab8, {
+     Name = "Banana #jvccv3rszhwlsqd6wx1k72t5",
+    Callback = function()
+	  
+  end
+  })
+    AddButton(Tab8, {
+     Name = "Banana #tuysm6uxo84wcgsj1z4cf367",
+    Callback = function()
+	  
+  end
+  })
+   AddButton(Tab8, {
+     Name = "Banana #vl0mxxe24yrx14fnfxcpk7y6",
+    Callback = function()
+	  
+  end
+  })
+   AddButton(Tab8, {
+     Name = "Banana #r5prgi71lpprbd1nxl2a4qme",
+    Callback = function()
+	  
   end
   })
